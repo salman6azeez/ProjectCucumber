@@ -17,7 +17,7 @@ public class TestBase {
 	public static WebDriver driver;
 	
 	public static void initDriver() {
-		System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\salma\\OneDrive\\Desktop\\Selenium\\Clone\\FinalExamCucumberFramework\\driver\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.manage().deleteAllCookies();
 		driver.get("https://techfios.com/test/101/");

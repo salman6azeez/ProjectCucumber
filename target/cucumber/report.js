@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 3482272600,
+  "duration": 2305707000,
   "status": "passed"
 });
 formatter.scenario({
@@ -49,25 +49,25 @@ formatter.match({
   "location": "TestStepDefinition.set_skyblue_button_exist()"
 });
 formatter.result({
-  "duration": 170037600,
+  "duration": 196113000,
   "status": "passed"
 });
 formatter.match({
   "location": "TestStepDefinition.i_click_on_the_button()"
 });
 formatter.result({
-  "duration": 3057325400,
+  "duration": 3062740500,
   "status": "passed"
 });
 formatter.match({
   "location": "TestStepDefinition.the_background_color_will_change_to_sky_blue()"
 });
 formatter.result({
-  "duration": 219938400,
+  "duration": 248339300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 2008129800,
+  "duration": 1729561300,
   "status": "passed"
 });
 formatter.scenario({
@@ -103,21 +103,21 @@ formatter.match({
   "location": "TestStepDefinition.set_SkyWhite_Background_button_exists()"
 });
 formatter.result({
-  "duration": 80999500,
+  "duration": 91536500,
   "status": "passed"
 });
 formatter.match({
   "location": "TestStepDefinition.i_click_Set_SkyWhite_Background_button()"
 });
 formatter.result({
-  "duration": 3058393700,
+  "duration": 3074696200,
   "status": "passed"
 });
 formatter.match({
   "location": "TestStepDefinition.the_background_color_will_change_to_white()"
 });
 formatter.result({
-  "duration": 221948400,
+  "duration": 265117100,
   "status": "passed"
 });
 });
